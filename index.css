@@ -1,0 +1,29 @@
+.nav{
+display: flex;
+justify-content: center;
+
+}
+.nav-item{
+margin-right: 100px;
+margin-left: 130px;
+font-size: 33px;
+text-decoration: none;
+color: black;
+background-color: #ffaeae;
+}
+
+.image{
+width: 600px;
+height: 600px;
+}
+
+.info{
+margin-left: 55px;
+font-size: 15px;
+margin-top: 0px;
+color: #f31ba0;
+}
+.nav-title{
+color: red;
+
+}
