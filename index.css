@@ -27,3 +27,11 @@ color: #f31ba0;
 color: red;
 
 }
+.footer{
+background-color: #3b3b3b;
+}
+.footer-text{
+font-size: 44px;
+display: flex;
+justify-content: center;
+}
